@@ -34,8 +34,9 @@ I have experience in Python, HTML, CSS, JavaScript, and GitHub.
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](images/portfolio.png)
-
+![Portfolio](images/portfolio-1.png)
+![Portfolio](images/portfolio-2.png)
+![Portfolio](images/portfolio-3.png)
 ## 📬 Contact
 - Email: kv574156@gmail.com
 - LinkedIn: https://linkedin.com/in/vishal-kumar-b503312a2
