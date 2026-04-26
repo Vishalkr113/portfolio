@@ -1,6 +1,6 @@
 # 💼 Vishal Kumar - Portfolio
 
-🚀 Live Website: https://yourusername.github.io/portfolio/
+🚀 Live Website: https://vishalkr113.github.io/portfolio/
 
 ## 👨‍💻 About Me
 I am a B.Tech Computer Science student passionate about software development.  
